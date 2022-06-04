@@ -1,4 +1,4 @@
-Algorithm test
+Boyer–Moore string-search algorithm
 ===
 
 ### Usage
