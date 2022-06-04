@@ -2,3 +2,5 @@
 .venv/
 
 Pipfile.lock
+
+.idea/workspace.xml
